@@ -1,0 +1,9 @@
+CPU:132.90:1
+Cooler:38.99:2
+Motherboard:69.99:12
+Memory:91.99:4
+Storage:129.99:4
+Videocard:479.99:9
+Case:259.99:1
+Power Supply:113.89:4
+Monitor:255:10
